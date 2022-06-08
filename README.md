@@ -4,7 +4,7 @@ I am in my second year of Computer Engineering. I am discovering what I like, an
 
 Skills: Python / C++ / Microsoft Excel
 
-- 🌱 I’m currently learning C++ 
+- 🌱 I’m currently learning C++ and Java
 - 📫 How to reach me: silaer@stu.khas.edu.tr 
 
 
