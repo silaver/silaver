@@ -2,9 +2,9 @@
 #### I am a Computer Engineering student at Kadir Has University.
 I am in my second year of Computer Engineering. I am discovering what I like, and how I want to continue my coding career. Currently, I am learning advanced C++.
 
-Skills: Python / C++ / Microsoft Excel
+Skills: Python / C++ / Java
 
-- 🌱 I’m currently learning C++ and Java
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: silaer@stu.khas.edu.tr 
 
 
