@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Sıla.
-#### I am a Computer Engineering graduate at Kadir Has University.
+#### I am a Computer Engineering graduate from Kadir Has University.
 
 Skills: Python / C++ / Java
 
