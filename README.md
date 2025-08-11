@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Sıla.
-#### I am a Computer Engineering student at Kadir Has University.
-I am in my fourth year of Computer Engineering. I am discovering what I like, and how I want to continue my coding career. 
+#### I am a Computer Engineering graduate at Kadir Has University.
 
 Skills: Python / C++ / Java
 
